@@ -1,2 +1,2 @@
-# projectC42
-Bubble Shooting game || Bubble War
+# projectC42hw
+Bubble Shooting game 
